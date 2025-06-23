@@ -32,7 +32,7 @@ Clone the repo
 bash
 Copy
 Edit
-git clone https://github.com/your-username/web-calculator.git
+git clone https://github.com/Debarghya-Das/Basic-Calculator-Web-App.git
 cd web-calculator
 Open index.html in your browser
 
